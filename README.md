@@ -30,3 +30,13 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 
 Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu banyak dan memakan tempat dan hanya membuat pusing melihatnya. Saya sudah push semua file dari project yang sudah saya buat dan jika menginginkan bisa mendownload beberapa file yang dibutuhkan saja atau clone repository ini sepenuhnya. Sebagai gantinya, saya hanya akan menjelaskan sedikit dari apa saja yang sudah saya kerjakan.
 
+a. Source Code Splash Launcher
+
+- SplashScreen.java
+
+Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka aplikasi, atau sebelum menuju kehalaman utama.
+
+- backgroundlauncher.xml
+
+Ini adalah logo yang saya gunakan, saya menggunakan logo dari android studio nya
+
