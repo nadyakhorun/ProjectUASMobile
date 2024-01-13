@@ -40,3 +40,8 @@ Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jel
 
 Ini adalah logo yang saya gunakan, saya menggunakan logo dari android studio nya
 
+
+
+https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/19afb2b3-189c-46d2-87f4-f4a1f3569bd6
+
+Sekian Terima Kasih
