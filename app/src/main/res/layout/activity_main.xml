@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btnHelloWorld"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnHelloWorld"
+                android:src="@drawable/icon_hello"
+                tools:ignore="UsingOnClickInXml,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btnProjectCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnCount"
+                android:src="@drawable/icon_count"
+                tools:ignore="UsingOnClickInXml,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btnProjectSianida"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnSianida"
+                android:src="@drawable/icon_sianida"
+                tools:ignore="UsingOnClickInXml,SpeakableTextPresentCheck" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btnTwoActivity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnTwoActivity"
+                android:src="@drawable/icon_twoact"
+                tools:ignore="UsingOnClickInXml, SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btnSetAlarm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnSetAlarm"
+                android:src="@drawable/icon_alarm"
+                tools:ignore="UsingOnClickInXml,SpeakableTextPresentCheck" />
+
+            <ImageButton
+                android:id="@+id/btnshowMaps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnshowMaps"
+                android:src="@drawable/icon_maps"
+                tools:ignore="UsingOnClickInXml,SpeakableTextPresentCheck" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btnFragmentActivity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/backgroundiconcolor"
+                android:onClick="btnFragmentActivity"
+                android:src="@drawable/icon_fragment"
+                tools:ignore="UsingOnClickInXml, SpeakableTextPresentCheck" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

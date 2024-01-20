@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundall"
+    tools:context=".SecondFragment">
+
+    <ImageButton
+        android:id="@+id/image1"
+        android:layout_width="150dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="8dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/romance"
+        android:background="@color/backgroundfilm"
+        android:onClick="loadVideo1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/title1"
+        android:layout_width="180dp"
+        android:layout_height="41dp"
+        android:layout_toRightOf="@id/image1"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/romance1"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/rating1"
+        android:layout_toRightOf="@id/image1"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/title1"
+        android:textColor="@color/grey"
+        android:text="@string/ratingr1"
+        android:textSize="14sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/sinopsis1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/rating1"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/image1"
+        android:maxLines="4"
+        android:text="@string/sinopsisr1"
+        android:textColor="@color/black" />
+
+    <ImageButton
+        android:id="@+id/image2"
+        android:layout_width="150dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/image1"
+        android:scaleType="centerInside"
+        android:onClick="loadVideo2"
+        android:background="@color/backgroundfilm"
+        android:src="@drawable/romance2"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/title2"
+        android:layout_width="180dp"
+        android:layout_height="41dp"
+        android:layout_toRightOf="@id/image2"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="11dp"
+        android:layout_below="@id/sinopsis1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/romance2"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/rating2"
+        android:layout_toRightOf="@id/image2"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/title2"
+        android:textColor="@color/grey"
+        android:text="@string/ratingr2"
+        android:textSize="14sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/sinopsis2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/rating2"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/image2"
+        android:maxLines="4"
+        android:text="@string/sinopsisr2"
+        android:textColor="@color/black" />
+
+    <ImageButton
+        android:id="@+id/image3"
+        android:layout_width="150dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/image2"
+        android:scaleType="centerInside"
+        android:background="@color/backgroundfilm"
+        android:onClick="loadVideo3"
+        android:src="@drawable/romance3"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/title3"
+        android:layout_width="180dp"
+        android:layout_height="41dp"
+        android:layout_toRightOf="@id/image3"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="11dp"
+        android:layout_below="@id/sinopsis2"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/romance3"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/rating3"
+        android:layout_toRightOf="@id/image3"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/title3"
+        android:textColor="@color/grey"
+        android:text="@string/ratingr3"
+        android:textSize="14sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/sinopsis3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/rating3"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/image3"
+        android:maxLines="4"
+        android:text="@string/sinopsisr3"
+        android:textColor="@color/black" />
+
+    <ImageButton
+        android:id="@+id/image4"
+        android:layout_width="150dp"
+        android:layout_height="145dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/image3"
+        android:scaleType="centerInside"
+        android:onClick="loadVideo4"
+        android:background="@color/backgroundfilm"
+        android:src="@drawable/romance4"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/title4"
+        android:layout_width="180dp"
+        android:layout_height="41dp"
+        android:layout_toRightOf="@id/image4"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="11dp"
+        android:layout_below="@id/sinopsis3"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/romance4"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/rating4"
+        android:layout_toRightOf="@id/image4"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/title4"
+        android:textColor="@color/grey"
+        android:text="@string/ratingr4"
+        android:textSize="14sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/sinopsis4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/rating4"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/image4"
+        android:maxLines="4"
+        android:text="@string/sinopsisr4"
+        android:textColor="@color/black" />
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtube_player_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

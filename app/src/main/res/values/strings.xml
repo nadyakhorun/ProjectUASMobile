@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Final APP</string>
+
+    <string name="map">Show Map</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_twoactivity">Project TwoActivity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+
+    <string name="Tab_1">Action</string>
+    <string name="Tab_2">Horror</string>
+    <string name="Tab_3">Comedy</string>
+
+
+    <string name="hello_text">>_Hello World!</string>
+
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
+
+    <string name="button_label_toast">Desk</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">Kasus kopi sianida berawal dari pertemuan Jessica Wongso, Mirna, dan Hanie Boon Juwita di Kafe Olivier Grand Indonesia (GI) pada 6 Januari 2016. Jessica datang lebih dahulu dan memesan tempat dilayani resepsionis Cindy yang menawarkan meja nomor 54.
+
+Lalu, ia pergi dan kembali lagi membawa tas kertas, kemudian memesan es kopi Vietnam serta dua koktail. Setelah ia membayar, penyaji mengantarkan minuman ke meja 54. \n\n
+
+
+Beberapa menit kemudian, Mirna dan Hani datang secara bersamaan. Mirna meminum es kopi Vietnam dan mengatakan rasanya tidak enak sambil mengibaskan tangan di depan mulutnya.\n\n
+
+
+Tidak lama kemudian, tubuh Mirna kejang, tidak sadarkan diri, dan mengeluarkan buih dari mulut. Mirna langsung dibawa ke klinik di GI. Kemudian, suami Mirna, Arief Soemarko datang membawanya ke Rumah Sakit (RS) Abdi Waluyo ditemani Jessica dan Hanie.
+
+Namun, nyawa Mirna tidak terselamatkan. Ayah Mirna, Edi Dharmawan Salihin langsung melaporkan kematian anaknya ke Polsek Metro Tanah Abang karena dianggap tidak wajar.\n
+
+
+Tiga hari setelah kematian, Direktur Reserse Kriminal Umum Polda Metro Jaya, Krishna Murti meminta izin kepada ayahnya agar diautopsi. Namun, jenazah hanya diizinkan untuk diambil sampel dari bagian tubuhnya dan menemukan zat racun. Lalu, pada 10 Januari 2016, jenazah Mirna dimakamkan di Gunung Gadung, Bogor.\n\n
+
+
+<b>Pra-rekonstruksi dan penetapan tersangka</b>\n
+
+Mengacu Antara, satu hari setelah Mirna dikubur, polisi melangsungkan pra-rekonstruksi di Kafe Olivier yang menghadirkan Jessica, Hanie, dan pegawai Olivier. Setelah itu, Puslabfor Mabes Polri mengumumkan, ada sianida dalam kopi dan lambung Mirna.
+
+Penyidik Polisi kemudian memanggil Jessica dan keluarga Mirna, yaitu Dharmawan, Sendy Salihin (saudari kembarnya), serta Arief. Penyidik melakukan gelar perkara, menetapkan Jessica sebagai tersangka pembunuhan, dan menangkapnya di sebuah hotel Jakarta Utara.\n\n
+
+
+<b>Rekonstruksi dan Praperadilan</b>\n
+
+Pada Februari 2016, polisi menggelar rekonstruksi tewasnya Mirna di Kafe Olivier. Jessica menolaknya karena dinilai itu sebagai "versi polisi". Setelah itu, ia menjalani tes kejiwaan di RS Cipto Mangunkusumo untuk mengetahui pribadi dan motif.
+
+Kemudian, penasihat hukum Jessica mengajukan pra-peradilan ke Pengadilan Negeri (PN) Jakarta Pusat (Jakpus) karena penetapan tersangka dianggap tidak sah. Namun, upaya tersebut pupus sehingga Jessica ditahan sampai akhir Mei 2016.
+
+Persidangan perdana dan saksi kunci
+
+Pada 15 Juni 2016, sidang perdana Jessica digelar dengan agenda pembacaan eksepsi oleh pengacara Jessica, Sordame Purba. Ia menyebut dakwaan jaksa terlalu dangkal untuk tuduhan pembunuhan berencana. Lalu, pada 28 Juni 2016, Hakim PN Jakpus menolak seluruh eksepsi karena dakwaan jaksa telah lengkap dan jelas.
+
+Pada 12 Juli 2016, keluarga Mirna (Dharmawan, Sendy, dan Arief) memberikan keterangan yang mengarah kepada kecurigaan Jessica. Esoknya, saksi kunci, Hanie dihadirkan. Ia sempat mencicipi es kopi Vietnam dan merasakan rasa panas di lidah. Ia juga menceritakan situasi kedatangannya di kafe sampai di RS Abdi Waluyo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Action</string>
+    <string name="second">Comedy</string>
+    <string name="third">Romance</string>
+
+
+    <string name="movies">MOVIES</string>
+
+    <string name="action1">Mission Impossible</string>
+    <string name="action2">Aquaman and the Lost Kingdom</string>
+    <string name="action3">Guardians of the Galaxy 3</string>
+    <string name="action4">Fast X</string>
+    <string name="sinopsisa1">Film ini menceritakan tentang Ethan Hunt (Tom Cruise) dan tim IMF yang memulai misi berbahaya untuk menaklukan senjata. Senjata tersebut sangat menakutkan karena bisa mengancam umat manusia jika jatuh ke tangan yang salah. Ethan berusaha mencari senjata tersebut dengan mempertaruhkan masa depan dan nasib dunia.</string>
+    <string name="sinopsisa2">Aquaman, kini telah menjadi pemimpin Atlantis yang harus menjalani berbagai aktivitas kerajaan, termasuk tugas politik dan diplomasi di bawah laut.Perannya sebagai raja semakin menuntut, terutama saat harus hadir dalam rapat dengan pemimpin-pemimpin kerajaan bawah laut lainnya. Sementara itu, Aquaman telah menikah dengan Mera (Amber Heard) yang kini menjadi ratu. Mereka dikaruniai seorang anak bernama Arthur Jr. Meskipun Arthur Jr. masih bayi, Aquaman dan Mera harus berbagi peran antara mengurus kerajaan bawah laut dan merawat sang anak yang tinggal di daratan bersama kakeknya, Tom Curry (Temuera Morrison).</string>
+    <string name="sinopsisa3">Di Marvel Studios "Guardians of the Galaxy Vol.3" kelompok orang aneh kesayangan kita terlihat sedikit berbeda akhir-akhir ini. Peter Quill, yang masih belum pulih dari kehilangan Gamora, harus mengerahkan timnya untuk membela alam semesta sekaligus melindungi salah satu dari mereka sendiri. Sebuah misi yang, jika tidak diselesaikan dengan sukses, sangat mungkin bisa menyebabkan akhir dari para Penjaga yang kita kenal.</string>
+    <string name="sinopsisa4">Film ini menceritakan bahaya baru yang kini mengancam Dom beserta keluarganya. Musuh kali ini menjadi buntut dari kekalahan Hernan Reyes, seorang gembong narkoba yang berhasil ditaklukkan Dom dan kelompoknya pada seri kelima yang berjudul Fast Five (2011).Kematian sang bandar narkoba melahirkan dendam dari anak Hernan, yaitu Dante Reyes. Sejak menyaksikan sendiri kematian Hernan, Dante mulai menyusun rencana balas dendam dan mengumpulkan bawahan-bawahan terkuat dari seluruh penjuru dunia.</string>
+    <string name="ratinga1">7.9</string>
+    <string name="ratinga2">9.4</string>
+    <string name="ratinga3">8.0</string>
+    <string name="ratinga4">5.8</string>
+
+    <string name="comedy1">Hidup Memang Komedi</string>
+    <string name="comedy2">Wonka</string>
+    <string name="comedy3">My Stupid Boss 2</string>
+    <string name="comedy4">Ngeri-Ngeri Sedep</string>
+    <string name="sinopsisc1">Film komedi karya Fajar Nugros ini dibintangi Bio One, Elang El Gibran, Erick Estrada, Erika Carlina, Dimas Anggara, Indah Permata Sari, dan Morgan Oey. Srimulat: Hidup Memang Komedi menceritakan grup lawak Srimulat asal Jawa Tengah yang ingin pergi ke Jakarta demi meraih kesuksesan.</string>
+    <string name="sinopsisc2">Dengan impian membuka toko di kota yang terkenal dengan coklatnya, Willy Wonka yang muda dan miskin menemukan bahwa industri tersebut dijalankan oleh kartel pembuat coklat yang rakus.</string>
+    <string name="sinopsisc3">Sikap arogan Bossman (Reza Rahadian) di film pertama membuat banyak pegawai memutuskan hengkang dari pabriknya. Bossman yang bingung karena kehilangan karyawan akhirnya berniat mencari pegawai baru di Vietnam.Berangkat ke Vietnam, Bossman ditemani oleh Diana (Bunga Citra Lestari), Mr Kho (Chew Kin Wah), dan Adrian (Iedil Dzuhrie Alaudin). Pegawai yang tersisa Norahsikin (Atikah Suhaime) dan Azahari (Iskandar Zulkarnain) tetap tinggal di kantor. Kepergian Bossman bukan berarti mereka tak menghadapi masalah. Mereka justru disandera gangster karena Bossman tak kunjung melunasi utang.</string>
+    <string name="sinopsisc4">Film ini disutradarai oleh Bene Dion Rajagukguk dan akan diperankan oleh Boris Bokir, Gita Bhebhita, Silolox, Indra Jegel, Tika Panggabean, Arswendi Bening Swara, serta Indah Permatasari. Ngeri-ngeri Sedap mengangkat kisah keluarga Batak dengan empat orang anak yang merantau dan sudah sukses dengan pekerjaannya masing-masing. Namun, di balik kesuksesan keempat anaknya, ada orang tua yang merindukan mereka di kampung halamannya di tepian Danau Toba.</string>
+    <string name="ratingc1">7.7</string>
+    <string name="ratingc2">8.0</string>
+    <string name="ratingc3">9.4</string>
+    <string name="ratingc4">7.0</string>
+
+    <string name="romance1">172 Days</string>
+    <string name="romance2">Ancika 1995</string>
+    <string name="romance3">Gita Cinta dari SMA</string>
+    <string name="romance4">Habibi dan Ainun 3</string>
+    <string name="sinopsisr1">Film ini diadaptasi dari novel berjudul sama karya Nadzira Shafa dan dibintangi oleh Bryan Domani bersama Yasmin Napper sebagai pemeran utamanya. Film 172 Days menceritakan perjalanan cinta seorang perempuan bernama Nadzira Shafa (Yasmin Napper) bersama sang suami Ameer Azzikra (Bryan Domani).</string>
+    <string name="sinopsisr2">Ancika menjadi film yang mengangkat kelanjutan kisah asmara Dilan yang sudah tidak bersama lagi dengan Milea. Selain itu, karakter Dilan dalam film ini tidak lagi diperankan oleh aktor yang sama pada film sebelumnya.Beberapa karakter dalam film sebelumnya juga dimainkan oleh sosok pemeran baru. Dalam film ini, karakter Dilan yang ikonik akan diperankan oleh aktor ternama Arbani Yasiz.</string>
+    <string name="sinopsisr3">Film yang disutradarai oleh Monty Tiwa ini, merupakan hasil remake dari film lawas tahun 1970-an dengan judul yang sama.  Pada film Gita Cinta dari SMA, Prilly Latuconsina akan beradu akting dengan Yesaya Abraham sebagai pemeran utama. Dalam film ini Prilly akan berperan sebagai Ratna, sedangkan Yesaya akan berperan sebagai Galih.</string>
+    <string name="sinopsisr4">Film garapan Hanung Bramantyo ini mengisahkan mendiang Presiden Ketiga RI BJ Habibie dengan fokus kehidupan istrinya, Hasri Ainun Besari saat masa muda kepada cucu-cucunya. Reza Rahadian didapuk menjadi Habibie, sementara Maudy Ayunda memerankan Ainun muda. Nama lain yang berperan dalam film ini adalah Jefri Nichol, Angga Yunanda, Marcella Zalianty, Lukman Sardi, Arswendi Bening, Rebecca Klopper, dan Aghniny Haque. Dikisahkan sejak kecil Ainun sudah tak asing dengan dunia kesehatan karena ibunya adalah seorang bidan.</string>
+    <string name="ratingr1">8.7</string>
+    <string name="ratingr2">7.4</string>
+    <string name="ratingr3">7.8</string>
+    <string name="ratingr4">9.7</string>
+
+</resources>
